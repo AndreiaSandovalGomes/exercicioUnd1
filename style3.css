@@ -1,0 +1,28 @@
+h1{
+  background-color: #ffc107;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding-bottom: 150px;
+  padding-right: 200PX;
+  }
+
+h2{
+  background-color: black;
+  color: white;
+  display:inline-block;
+  padding-bottom: 150px;
+  padding-right: 200PX;
+  width: 100px;
+  height: 100px;
+}
+
+h3{
+  background-color: #ffc107;
+  display: inline-block;
+  padding-bottom: 150px;
+  padding-right: 150PX;
+  width: 100px;
+  height: 100px;
+
+}
